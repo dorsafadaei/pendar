@@ -1,0 +1,54 @@
+h1 {
+
+  font-weight: bold;
+}
+
+.first {
+  text-align: right;
+  margin: 1.5rem;
+  font-size: 20px;
+}
+
+h5 {
+  font-family: iransans, tahoma, serif;
+  line-height: normal;
+  font-size: 24px;
+}
+
+p {
+  font-family: yekan, tahoma, serif;
+}
+
+.text {
+  position: absolute;
+  top: 30%;
+  right: 16px;
+  font-size: 18px;
+}
+
+.container {
+  position: relative;
+}
+.us {
+  width: 500px;
+  height: 500px;
+  padding: 100px;
+  margin: 100px;
+  border: 2px solid blue;
+}
+
+.game{
+  text-align: center;
+}
+
+.game-img{
+  border: 2px solid red;
+  border-radius: 12px;
+  height: 146px;
+  width: 158px;
+  margin: 1.5rem;
+}
+
+figcaption {
+  text-align: center;
+}
